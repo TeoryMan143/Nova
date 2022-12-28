@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive name="Unicorn Milk" description="Pain is crazy" gfx="collectibles_unicornmilk.png" quality="2" cache="speed" />
+</items>

@@ -1,0 +1,11 @@
+{
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.lightIndicatorStyleLineWidth": 3,
+    "editor.guides.indentation": false,
+    "indentRainbow.excludedLanguages": [
+        "xml"
+    ],
+    "files.associations": {
+        "*.anm2": "xml"
+    }
+}
